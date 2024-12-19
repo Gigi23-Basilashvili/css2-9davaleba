@@ -131,3 +131,6 @@
     color: white;
     background: #7F56D9;
 }
+ #mainSection div:nth-child(3) {
+    padding-top: 40px;
+ }
